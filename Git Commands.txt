@@ -1,0 +1,4 @@
+git .ignore file : is used to ignore all environment variables,packages etc
+
+
+2.Src folder

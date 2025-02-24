@@ -1,0 +1,15 @@
+Agenda
+
+1) Set up the GitHub (repository)
+  a) New Environment
+
+    # To activate this environment, use                                       
+   
+    $ conda activate "C:\Users\ADMIN\Desktop\Cloud Computing\Cloud Computing Project\venv"
+
+    # To deactivate an active environment, use
+
+    $ conda deactivate
+
+  b)setup.py
+  c) requirements.txt
